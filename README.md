@@ -1,1 +1,1 @@
-# Class-32---Angry-Birds-Stage-7
+# AngryBirdsStage7
